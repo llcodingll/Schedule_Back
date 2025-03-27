@@ -88,7 +88,7 @@
 
 ---
 
-### **6. 로컬 환경 개발 및 테스트 (Local Development & Testing)**
+### **5. 로컬 환경 개발 및 테스트 (Local Development & Testing)**
 
 > ✅ 핵심 기능: 개발 환경에서의 효율적인 테스트 및 디버깅
 >
