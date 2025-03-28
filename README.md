@@ -1,4 +1,4 @@
-# Schedule
+# Myro
 ### 🛠️ Managing schedule Web Application
 #### Skills
 - Java21, Spring Boot
