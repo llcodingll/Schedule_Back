@@ -1,4 +1,4 @@
-package com.lloll.schedule;
+package com.lloll.myro;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

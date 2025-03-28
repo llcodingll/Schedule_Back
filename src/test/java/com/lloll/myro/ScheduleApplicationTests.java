@@ -1,4 +1,4 @@
-package com.lloll.schedule;
+package com.lloll.myro;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

@@ -1,6 +1,6 @@
-package com.lloll.schedule.schedule.entity;
+package com.lloll.myro.schedule.entity;
 
-import com.lloll.schedule.user.entity.User;
+import com.lloll.myro.user.entity.User;
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
 import jakarta.persistence.FetchType;
