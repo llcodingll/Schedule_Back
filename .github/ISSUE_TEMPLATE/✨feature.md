@@ -1,0 +1,30 @@
+---
+name: "✨Feature"
+about: New Feature
+title: ''
+labels: ''
+assignees: llcodingll
+
+---
+
+name: "✨ Feature"
+description: "New Feature"
+body:
+  - type: textarea
+    attributes:
+      label: 📄 Description
+      description: 새로운 기능에 대한 설명 작성
+      placeholder: 최대한 narrative하게
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: ✅ 작업할 내용
+      description: 할 일 체크박스 형태로 작성
+      placeholder: 최대한 세분화
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: 🙋🏻 참고 자료
+      description: 참고 자료가 있다면 작성
