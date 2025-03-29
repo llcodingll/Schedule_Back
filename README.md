@@ -3,7 +3,7 @@
 #### Skills
 - Java21, Spring Boot
 - Caching: Redis
-- AI API: Windsurf, ChatGPT, Gemini 2.0
+- AI: Windsurf, ChatGPT, Gemini 2.0
 #### Duration
 - 2M, 1D per 1H
 
